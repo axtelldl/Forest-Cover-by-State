@@ -1,0 +1,7 @@
+# Forest Cover Web Mapping Application
+
+This interactive web mapping application visualizes the percentage of forest cover across U.S. states using a choropleth map built with Leaflet.js. The objective of the project is to help users explore spatial patterns in forest distribution, compare forest cover between states, and better understand broad land-use trends across the United States. The map integrates several interactive features including hover-based data display, clickable state boundaries, multiple basemap options, a legend, a scale bar, and a search tool that allows users to locate states directly from the GeoJSON data. A time slider can also be incorporated to visualize forest cover change across multiple years.
+
+The forest cover dataset used in this application was derived from publicly available U.S. government open data. Colors and breakpoints were created using chroma.js to ensure a clear and intuitive classification of forest percentage values. The project’s design and functionality were inspired in part by the article *“POLLINATION ECOLOGY IN THE 21ST CENTURY: KEY QUESTIONS FOR FUTURE RESEARCH”* by Carolin Mayer et al. (2011), which emphasizes the importance of clear, accessible ecological data visualization for both scientific and public audiences.
+
+This application was authored by **Devin Axtell** as part of coursework involving geospatial data visualization and thematic cartography.
